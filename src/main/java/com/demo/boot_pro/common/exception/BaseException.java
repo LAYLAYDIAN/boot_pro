@@ -1,10 +1,6 @@
 package com.demo.boot_pro.common.exception;
 
 import com.demo.boot_pro.common.exception.errorcode.CommonErrorCode;
-import com.demo.boot_pro.common.exception.errorcode.IErrorCode;
-import org.apache.commons.lang3.ArrayUtils;
-import org.apache.commons.lang3.StringUtils;
-
 /**
  * 主动抛异常时，应使用此异常类（自定义）
  * Created by Administrator on 2018/11/23 0023.
